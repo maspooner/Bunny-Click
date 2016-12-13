@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bonuses>
+	<bonus>
+		<name>Late-Night Mischief</name>
+		<desc>What are you doing awake? Go to sleep; no bonus for you!</desc>
+		<TOD>1:00 am</TOD>
+		<value>0.0f</value>
+	</bonus>
+	<bonus>
+		<name>Early-Morning Mischief</name>
+		<desc>>What are you doing awake? Go to sleep; no bonus for you!</desc>
+		<TOD>2:00 am</TOD>
+		<value>0.0f</value>
+	</bonus>
+	<bonus>
+		<name>Early-Morning Mischief</name>
+		<desc>What are you doing awake? Go to sleep; no bonus for you!</desc>
+		<TOD>3:00 am</TOD>
+		<value>0.0f</value>
+	</bonus>
+	<bonus>
+		<name>Early Riser</name>
+		<desc>You know what they say, "Those who wake early, usually take a nap later."</desc>
+		<TOD>4:00 am</TOD>
+		<value>0.01f</value>
+	</bonus>
+	<bonus>
+		<name>Civilization Time</name>
+		<desc>You see what I did there? Civilization 5. 5:00 am. Clever, eh?</desc>
+		<TOD>5:00 am</TOD>
+		<value>0.03f</value>
+	</bonus>
+	<bonus>
+		<name>Early Bird Special</name>
+		<desc>Free entree with a purchase of 4 side dishes!</desc>
+		<TOD>6:00 am</TOD>
+		<value>0.05f</value>
+	</bonus>
+	<bonus>
+		<name>A Fine Bonus</name>
+		<desc>Hm, HMMMM! Yes, what a fine day for mayoring!</desc>
+		<TOD>7:00 am</TOD>
+		<value>0.06f</value>
+	</bonus>
+	<bonus>
+		<name>Tom Nook's Opening</name>
+		<desc>Chip-chip-choo. I heard you want to buy this house. Chip-chip-chee. I heard you owe me some money.</desc>
+		<TOD>8:00 am</TOD>
+		<value>0.09f</value>
+	</bonus>
+	<bonus>
+		<name>Bruncheon!</name>
+		<desc>Like luncheon but better! At least the bonus is...</desc>
+		<TOD>9:00 am</TOD>
+		<value>0.07f</value>
+	</bonus>
+	<bonus>
+		<name>Bunny Hour</name>
+		<desc>Oh yeah! It's time for a super ultra spectacular amazing surprising kind-of-the-best-thing-ever production increase!</desc>
+		<TOD>10:00 am</TOD>
+		<value>0.17f</value>
+	</bonus>
+	<bonus>
+		<name>Espa(~n)ol tiempo!</name>
+		<desc>Me creer(`i)as si te digo que yo habr(`i)a puesto un multiplier de cuarto de cien en este bonus?</desc>
+		<TOD>11:00 am</TOD>
+		<value>0.04f</value>
+	</bonus>
+	<bonus>
+		<name>Luncheon!</name>
+		<desc>Have a Caesar salad with a side of Julius juice.</desc>
+		<TOD>12:00 pm</TOD>
+		<value>0.04f</value>
+	</bonus>
+	<bonus>
+		<name>RAnDom hOuR!</name>
+		<desc>Nothing too special. Just a random hour.</desc>
+		<TOD>1:00 pm</TOD>
+		<value>0.07f</value>
+	</bonus>
+	<bonus>
+		<name>Burst of Energy</name>
+		<desc>Gotta love that crash at 2 o' clock.</desc>
+		<TOD>2:00 pm</TOD>
+		<value>0.10f</value>
+	</bonus>
+	<bonus>
+		<name>Artist's hour</name>
+		<desc>A great artist once said, "True art is characterized by an irresistible urge in the creative artist."</desc>
+		<TOD>3:00 pm</TOD>
+		<value>0.12f</value>
+	</bonus>
+	<bonus>
+		<name>Time for Tea!</name>
+		<desc>Queen Elizabeth would approve.</desc>
+		<TOD>4:00 pm</TOD>
+		<value>0.03f</value>
+	</bonus>
+	<bonus>
+		<name>Homework Frenzy</name>
+		<desc>Uuuuughhh...It's a me. Mario.</desc>
+		<TOD>5:00 pm</TOD>
+		<value>0.01f</value>
+	</bonus>
+	<bonus>
+		<name>Dinnereon!</name>
+		<desc>Like luncheon but with a twist--slightly better production!</desc>
+		<TOD>6:00 pm</TOD>
+		<value>0.05f</value>
+	</bonus>
+	<bonus>
+		<name>Sunset Siesta</name>
+		<desc>Ah, sunsets are so nice!</desc>
+		<TOD>7:00 pm</TOD>
+		<value>0.11f</value>
+	</bonus>
+	<bonus>
+		<name>Darkness Begins</name>
+		<desc>And so, the sun set, and the world grew cold.</desc>
+		<TOD>8:00 pm</TOD>
+		<value>0.02f</value>
+	</bonus>
+	<bonus>
+		<name>Secret Hour</name>
+		<desc>Shh! It's a secret to everybody.</desc>
+		<TOD>9:00 pm</TOD>
+		<value>0.05f</value>
+	</bonus>
+	<bonus>
+		<name>Space Quest Time!</name>
+		<desc>~~~Mycaruba~~~</desc>
+		<TOD>10:00 pm</TOD>
+		<value>0.10f</value>
+	</bonus>
+	<bonus>
+		<name>Yawn...</name>
+		<desc>It's pretty late. You sh...oh hey Big Zam!</desc>
+		<TOD>11:00 pm</TOD>
+		<value>0.08f</value>
+	</bonus>
+	<bonus>
+		<name>Late-Night Mischief</name>
+		<desc>What are you doing awake? Go to sleep; no bonus for you!</desc>
+		<TOD>12:00 am</TOD>
+		<value>0.0f</value>
+	</bonus>
+</bonuses>

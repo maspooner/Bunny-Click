@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<upgrades>
+	<upgrade>
+		<name>Floppy Foot</name>
+		<desc>Might want to get that checked out.</desc>
+		<path>b11.png</path>
+		<cost>500</cost>
+		<is_base>true</is_base>
+		<value>1</value>
+		<apply_to>BUILD</apply_to>
+		<meta>0</meta>
+	</upgrade>
+	<upgrade>
+		<name>Fluffy Tail</name>
+		<desc>It looks like a cottonball.</desc>
+		<path>b12.png</path>
+		<cost>2000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>0</meta>
+	</upgrade>
+	<upgrade>
+		<name>More Whiskers</name>
+		<desc>Sensical upgrade for a rabbit.</desc>
+		<path>b13.png</path>
+		<cost>50000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>0</meta>
+	</upgrade>
+	<upgrade>
+		<name>Softer Fur</name>
+		<desc>So soft!</desc>
+		<path>b14.png</path>
+		<cost>2500000</cost>
+		<is_base>true</is_base>
+		<value>10</value>
+		<apply_to>BUILD</apply_to>
+		<meta>0</meta>
+	</upgrade>
+	<upgrade>
+		<name>Cuter Babies</name>
+		<desc>I could cuddle with you all day!</desc>
+		<path>b15.png</path>
+		<cost>250000000</cost>
+		<is_base>true</is_base>
+		<value>50</value>
+		<apply_to>BUILD</apply_to>
+		<meta>0</meta>
+	</upgrade>
+	<upgrade>
+		<name>Greener Grass</name>
+		<desc>Green grass grows grossly by the grainery.</desc>
+		<path>b21.png</path>
+		<cost>10000</cost>
+		<is_base>true</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Cool Breeze</name>
+		<desc>Is rly good.</desc>
+		<path>b22.png</path>
+		<cost>100000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Fantastic Flowers</name>
+		<desc>A multitude of colors.</desc>
+		<path>b23.png</path>
+		<cost>1000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Prettier Sunsets</name>
+		<desc>The sun goes down.</desc>
+		<path>b24.png</path>
+		<cost>50000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Ecosystem Epicenter</name>
+		<desc>Sustaining many types of life.</desc>
+		<path>b25.png</path>
+		<cost>1000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Faster Animation</name>
+		<desc>Just increase the FPS.</desc>
+		<path>b31.png</path>
+		<cost>50000</cost>
+		<is_base>true</is_base>
+		<value>10</value>
+		<apply_to>BUILD</apply_to>
+		<meta>2</meta>
+	</upgrade>
+	<upgrade>
+		<name>Refired Figures</name>
+		<desc>Refried, am I right?</desc>
+		<path>b32.png</path>
+		<cost>500000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>2</meta>
+	</upgrade>
+	<upgrade>
+		<name>Expanded Workshop</name>
+		<desc>You're forever indebted to Tom.</desc>
+		<path>b33.png</path>
+		<cost>5000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>2</meta>
+	</upgrade>
+	<upgrade>
+		<name>Higher Voltage</name>
+		<desc>Put more zap in your bolts.</desc>
+		<path>b34.png</path>
+		<cost>250000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>2</meta>
+	</upgrade>
+	<upgrade>
+		<name>Zeus's Lightning Bolt</name>
+		<desc>He took the bolt! (runs...)</desc>
+		<path>b35.png</path>
+		<cost>5000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>2</meta>
+	</upgrade>
+	<upgrade>
+		<name>Typing Class</name>
+		<desc>The first step to hacking.</desc>
+		<path>b41.png</path>
+		<cost>300000</cost>
+		<is_base>true</is_base>
+		<value>40</value>
+		<apply_to>BUILD</apply_to>
+		<meta>3</meta>
+	</upgrade>
+	<upgrade>
+		<name>RAM Upgrade</name>
+		<desc>Memory is important.</desc>
+		<path>b42.png</path>
+		<cost>3000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>3</meta>
+	</upgrade>
+	<upgrade>
+		<name>Admin Access</name>
+		<desc>Got dem admin codes.</desc>
+		<path>b43.png</path>
+		<cost>30000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>3</meta>
+	</upgrade>
+	<upgrade>
+		<name>Knowledge Database</name>
+		<desc>Knowledge is power.</desc>
+		<path>b44.png</path>
+		<cost>1500000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>3</meta>
+	</upgrade>
+	<upgrade>
+		<name>Computer Network</name>
+		<desc>An array of high-tech hacking machines.</desc>
+		<path>b45.png</path>
+		<cost>30000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>3</meta>
+	</upgrade>
+	<upgrade>
+		<name>Cheaper Cartridges</name>
+		<desc>Because ink is expensive.</desc>
+		<path>b51.png</path>
+		<cost>1000000</cost>
+		<is_base>true</is_base>
+		<value>100</value>
+		<apply_to>BUILD</apply_to>
+		<meta>4</meta>
+	</upgrade>
+	<upgrade>
+		<name>Multitude of Materials</name>
+		<desc>From bones to organs to fur.</desc>
+		<path>b52.png</path>
+		<cost>10000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>4</meta>
+	</upgrade>
+	<upgrade>
+		<name>Molecular Modeling</name>
+		<desc>Precision = success.</desc>
+		<path>b53.png</path>
+		<cost>100000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>4</meta>
+	</upgrade>
+	<upgrade>
+		<name>Overclocked Arm</name>
+		<desc>Now you're printing!</desc>
+		<path>b54.png</path>
+		<cost>5000000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>4</meta>
+	</upgrade>
+	<upgrade>
+		<name>Added Arm</name>
+		<desc>Two is better than one.</desc>
+		<path>b55.png</path>
+		<cost>100000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>4</meta>
+	</upgrade>
+	<upgrade>
+		<name>Rocket Science</name>
+		<desc>Actually, it is rocket science!</desc>
+		<path>b61.png</path>
+		<cost>4000000</cost>
+		<is_base>true</is_base>
+		<value>300</value>
+		<apply_to>BUILD</apply_to>
+		<meta>5</meta>
+	</upgrade>
+	<upgrade>
+		<name>SAS Integration</name>
+		<desc>Never waver again!</desc>
+		<path>b62.png</path>
+		<cost>40000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>5</meta>
+	</upgrade>
+	<upgrade>
+		<name>Efficient Biofuel</name>
+		<desc>To be more ecofriendly.</desc>
+		<path>b63.png</path>
+		<cost>400000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>5</meta>
+	</upgrade>
+	<upgrade>
+		<name>Acceleration Amplifiers</name>
+		<desc>Boost up to lightspeed!</desc>
+		<path>b64.png</path>
+		<cost>20000000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>5</meta>
+	</upgrade>
+	<upgrade>
+		<name>Anti-Gravity Boosters</name>
+		<desc>Stop gravity in its tracks.</desc>
+		<path>b65.png</path>
+		<cost>400000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>5</meta>
+	</upgrade>
+	<upgrade>
+		<name>Pointier Hats</name>
+		<desc>The top of the morning to you!</desc>
+		<path>b71.png</path>
+		<cost>20000000</cost>
+		<is_base>true</is_base>
+		<value>1000</value>
+		<apply_to>BUILD</apply_to>
+		<meta>6</meta>
+	</upgrade>
+	<upgrade>
+		<name>Faster Beard Growth</name>
+		<desc>So manly.</desc>
+		<path>b72.png</path>
+		<cost>200000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>6</meta>
+	</upgrade>
+	<upgrade>
+		<name>Secret of Mana</name>
+		<desc>Neko reveals where mana comes from.</desc>
+		<path>b73.png</path>
+		<cost>2000000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>6</meta>
+	</upgrade>
+	<upgrade>
+		<name>Forgotten Spellbook</name>
+		<desc>Contains the text: Maken konijnen lijken ook kan ik heeft koekjes.</desc>
+		<path>b74.png</path>
+		<cost>100000000000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>6</meta>
+	</upgrade>
+	<upgrade>
+		<name>Magic Infused Staffs</name>
+		<desc>Don't mess with him; He's a lvl 90 warlock.</desc>
+		<path>b75.png</path>
+		<cost>2000000000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>6</meta>
+	</upgrade>
+	<upgrade>
+		<name>Larger Teleporter</name>
+		<desc>For more teleporting.</desc>
+		<path>b81.png</path>
+		<cost>166666600</cost>
+		<is_base>true</is_base>
+		<value>16666</value>
+		<apply_to>BUILD</apply_to>
+		<meta>7</meta>
+	</upgrade>
+	<upgrade>
+		<name>Flash of Blue Light</name>
+		<desc>Mostly just for effect.</desc>
+		<path>b82.png</path>
+		<cost>1666666000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>7</meta>
+	</upgrade>
+	<upgrade>
+		<name>Superconductors</name>
+		<desc>Electricity without loss.</desc>
+		<path>b83.png</path>
+		<cost>16666660000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>7</meta>
+	</upgrade>
+	<upgrade>
+		<name>Diffused Subatomic Particles</name>
+		<desc>Sounds fancy, eh?</desc>
+		<path>b84.png</path>
+		<cost>833333300000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>7</meta>
+	</upgrade>
+	<upgrade>
+		<name>Wormhole Quantifiers</name>
+		<desc>Don't know how it works, but it does.</desc>
+		<path>b85.png</path>
+		<cost>16666666000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>7</meta>
+	</upgrade>
+	<upgrade>
+		<name>Astronomy</name>
+		<desc>See all the planets to colonize.</desc>
+		<path>b91.png</path>
+		<cost>12345678900</cost>
+		<is_base>true</is_base>
+		<value>98765</value>
+		<apply_to>BUILD</apply_to>
+		<meta>8</meta>
+	</upgrade>
+	<upgrade>
+		<name>Brighter Sun</name>
+		<desc>Makes more planets habitable.</desc>
+		<path>b92.png</path>
+		<cost>98765432100</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>8</meta>
+	</upgrade>
+	<upgrade>
+		<name>Planet Solidifier</name>
+		<desc>Make those gaseous planets solid.</desc>
+		<path>b93.png</path>
+		<cost>987654456789</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>8</meta>
+	</upgrade>
+	<upgrade>
+		<name>Increased Orbit</name>
+		<desc>Pull more planets into your universe.</desc>
+		<path>b94.png</path>
+		<cost>12345678900000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>8</meta>
+	</upgrade>
+	<upgrade>
+		<name>Space-Time Rip</name>
+		<desc>Store more planets in the rift.</desc>
+		<path>b95.png</path>
+		<cost>1234567890000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>8</meta>
+	</upgrade>
+	<upgrade>
+		<name>Titan's Favorite</name>
+		<desc>Gain the favor of the titans.</desc>
+		<path>b101.png</path>
+		<cost>399999999900</cost>
+		<is_base>true</is_base>
+		<value>999999</value>
+		<apply_to>BUILD</apply_to>
+		<meta>9</meta>
+	</upgrade>
+	<upgrade>
+		<name>Sacrificial Humans</name>
+		<desc>Appease the titans with a sacrifice.</desc>
+		<path>b102.png</path>
+		<cost>3999999999000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>9</meta>
+	</upgrade>
+	<upgrade>
+		<name>Religion Swap</name>
+		<desc>Convert people into believers.</desc>
+		<path>b103.png</path>
+		<cost>39999999990000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>9</meta>
+	</upgrade>
+	<upgrade>
+		<name>A Titan's Call</name>
+		<desc>Call the Lepus Titan's friends.</desc>
+		<path>b104.png</path>
+		<cost>1999999999500000</cost>
+		<is_base>false</is_base>
+		<value>2</value>
+		<apply_to>BUILD</apply_to>
+		<meta>9</meta>
+	</upgrade>
+	<upgrade>
+		<name>Rewrite Reality</name>
+		<desc>Why not?</desc>
+		<path>b105.png</path>
+		<cost>39999999990000000</cost>
+		<is_base>false</is_base>
+		<value>3</value>
+		<apply_to>BUILD</apply_to>
+		<meta>9</meta>
+	</upgrade>
+	<upgrade>
+		<name>Clickier Mouse</name>
+		<desc>Click click.</desc>
+		<path>cus1.png</path>
+		<cost>5000</cost>
+		<is_base>false</is_base>
+		<value>10</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Sharper Pointer</name>
+		<desc>Will poke the screen harder.</desc>
+		<path>cus1.png</path>
+		<cost>500000</cost>
+		<is_base>false</is_base>
+		<value>20</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Acceleration Software</name>
+		<desc>Unlocks some totally legal software to click faster.</desc>
+		<path>cus2.png</path>
+		<cost>50000000</cost>
+		<is_base>false</is_base>
+		<value>40</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Overclocked Finger</name>
+		<desc>All I see is a blur of motion.</desc>
+		<path>cus3.png</path>
+		<cost>500000000</cost>
+		<is_base>false</is_base>
+		<value>80</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>DPI Overdrive</name>
+		<desc>Up that mouse sensitivity!</desc>
+		<path>cus4.png</path>
+		<cost>5000000000</cost>
+		<is_base>false</is_base>
+		<value>100</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Subatomic Rapid Clicker</name>
+		<desc>Clicks even the electrons of the screen.</desc>
+		<path>cus5.png</path>
+		<cost>50000000000</cost>
+		<is_base>false</is_base>
+		<value>120</value>
+		<apply_to>CUS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Four Leaf Clover</name>
+		<desc>The classic good luck charm.</desc>
+		<path>gol1.png</path>
+		<cost>777777777</cost>
+		<is_base>true</is_base>
+		<value>10</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Rabbit's Foot</name>
+		<desc>How could you?!</desc>
+		<path>gol2.png</path>
+		<cost>7777777777</cost>
+		<is_base>false</is_base>
+		<value>100</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Old Wishing Well</name>
+		<desc>Toss in a coin or two.</desc>
+		<path>gol3.png</path>
+		<cost>77777777777</cost>
+		<is_base>true</is_base>
+		<value>15</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Golden Horseshoe</name>
+		<desc>Gold attracts other golden things.</desc>
+		<path>gol4.png</path>
+		<cost>777777777777</cost>
+		<is_base>false</is_base>
+		<value>100</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Tiny Leprechaun</name>
+		<desc>Found at the end of a rainbow.</desc>
+		<path>gol5.png</path>
+		<cost>77777777777777</cost>
+		<is_base>true</is_base>
+		<value>20</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Shooting Star</name>
+		<desc>Make a wish.</desc>
+		<path>gol6.png</path>
+		<cost>777777777777777</cost>
+		<is_base>false</is_base>
+		<value>100</value>
+		<apply_to>GOL</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Fresh Water</name>
+		<desc>Refreshing, yet bland.</desc>
+		<path>ach1.png</path>
+		<cost>90000000</cost>
+		<is_base>false</is_base>
+		<value>5</value>
+		<apply_to>ACH</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Carrot Juice</name>
+		<desc>A bunny's favorite drink!</desc>
+		<path>ach2.png</path>
+		<cost>90000000000</cost>
+		<is_base>false</is_base>
+		<value>20</value>
+		<apply_to>ACH</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Pink Lemonade</name>
+		<desc>Tastes just like lemonade.</desc>
+		<path>ach3.png</path>
+		<cost>90000000000000</cost>
+		<is_base>false</is_base>
+		<value>25</value>
+		<apply_to>ACH</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Cream Soda</name>
+		<desc>Sugary goodness!</desc>
+		<path>ach4.png</path>
+		<cost>9000000000000000</cost>
+		<is_base>false</is_base>
+		<value>40</value>
+		<apply_to>ACH</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Vienna</name>
+		<desc>The classic rabbit.</desc>
+		<path>bps1.png</path>
+		<cost>99999999</cost>
+		<is_base>false</is_base>
+		<value>5</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Lionhead</name>
+		<desc>Rawr.</desc>
+		<path>bps2.png</path>
+		<cost>99999999</cost>
+		<is_base>false</is_base>
+		<value>5</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Rex</name>
+		<desc>No, he is not a dinosaur.</desc>
+		<path>bps3.png</path>
+		<cost>99999999</cost>
+		<is_base>false</is_base>
+		<value>5</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Czech Red</name>
+		<desc>Red just like a chocolate bar.</desc>
+		<path>bps4.png</path>
+		<cost>9999999999</cost>
+		<is_base>false</is_base>
+		<value>10</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Gotland</name>
+		<desc>Ramtastic!</desc>
+		<path>bps5.png</path>
+		<cost>9999999999</cost>
+		<is_base>false</is_base>
+		<value>10</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Mini Lop</name>
+		<desc>Your ears are facing up-side down.</desc>
+		<path>bps6.png</path>
+		<cost>9999999999</cost>
+		<is_base>false</is_base>
+		<value>10</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Netherland Dwarf</name>
+		<desc>Her favorite food is vlaai.</desc>
+		<path>bps7.png</path>
+		<cost>99999999999999</cost>
+		<is_base>false</is_base>
+		<value>15</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Dutch</name>
+		<desc>Good ol' Ossenhaas.</desc>
+		<path>bps8.png</path>
+		<cost>99999999999999</cost>
+		<is_base>false</is_base>
+		<value>15</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>English Angora</name>
+		<desc>A-are you alright? Looks like you need a haircut.</desc>
+		<path>bps9.png</path>
+		<cost>199999999999999</cost>
+		<is_base>false</is_base>
+		<value>20</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+	<upgrade>
+		<name>Teddywidder</name>
+		<desc>Similar to a teddybear.</desc>
+		<path>bps10.png</path>
+		<cost>999999999999999</cost>
+		<is_base>false</is_base>
+		<value>25</value>
+		<apply_to>BPS</apply_to>
+		<meta>-1</meta>
+	</upgrade>
+</upgrades>

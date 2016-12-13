@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildings>
+	<building>
+		<name>Mama Bunny</name>
+		<desc>Makes bunnies the natural way.</desc>
+		<path>mama.png</path>
+		<BPS>1</BPS>
+		<base>150</base>
+	</building>
+	<building>
+		<name>Meadow</name>
+		<desc>A peaceful meadow in a far away land.</desc>
+		<path>meadow.png</path>
+		<BPS>5</BPS>
+		<base>1000</base>
+	</building>
+	<building>
+		<name>Clay Animator</name>
+		<desc>Brings clay figures to life with the power of lightning.</desc>
+		<path>animator.png</path>
+		<BPS>40</BPS>
+		<base>5000</base>
+	</building>
+	<building>
+		<name>Hacker</name>
+		<desc>Hacks bunnies in from all over the world.</desc>
+		<path>hacker.png</path>
+		<BPS>100</BPS>
+		<base>30000</base>
+	</building>
+	<building>
+		<name>3D Printer</name>
+		<desc>Makes bunnies the artifical way.</desc>
+		<path>printer.png</path>
+		<BPS>400</BPS>
+		<base>100000</base>
+	</building>
+	<building>
+		<name>Spaceship</name>
+		<desc>Travels to other planets for bunnies.</desc>
+		<path>spaceship.png</path>
+		<BPS>1000</BPS>
+		<base>400000</base>
+	</building>
+	<building>
+		<name>Wizard Tower</name>
+		<desc>Conjure up some bunnies.</desc>
+		<path>wizard.png</path>
+		<BPS>4000</BPS>
+		<base>2000000</base>
+	</building>
+	<building>
+		<name>Teleporter</name>
+		<desc>Beam me up, Scotty!</desc>
+		<path>teleporter.png</path>
+		<BPS>66666</BPS>
+		<base>16666666</base>
+	</building>
+	<building>
+		<name>Universe</name>
+		<desc>Founds a colony in another universe.</desc>
+		<path>universe.png</path>
+		<BPS>987654</BPS>
+		<base>1234567890</base>
+	</building>
+	<building>
+		<name>Lepus Titan</name>
+		<desc>A powerful ally, a fearful foe.</desc>
+		<path>titan.png</path>
+		<BPS>9999999</BPS>
+		<base>39999999999</base>
+	</building>
+</buildings>

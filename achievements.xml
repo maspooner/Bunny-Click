@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achievements>
+	<achievement>
+		<name>First Hops!</name>
+		<desc>Make your first 10 bunnies.</desc>
+		<path>total1.png</path>
+		<value>10</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Making Progress</name>
+		<desc>Make 1,000 bunnies.</desc>
+		<path>total2.png</path>
+		<value>1000</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>10 Thousand's a Crowd</name>
+		<desc>Make 10,000 bunnies.</desc>
+		<path>total3.png</path>
+		<value>10000</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>World of Bunnies</name>
+		<desc>Make 100,000 bunnies.</desc>
+		<path>total4.png</path>
+		<value>100000</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Massive Production</name>
+		<desc>Make 1,000,000 bunnies.</desc>
+		<path>total5.png</path>
+		<value>1000000</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Hopping Crazy</name>
+		<desc>Make 10,000,000 bunnies.</desc>
+		<path>total6.png</path>
+		<value>10000000</value>
+		<data>-1</data>
+		<multi>0.03f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>So Many Bunnies</name>
+		<desc>Make 100,000,000 bunnies.</desc>
+		<path>total7.png</path>
+		<value>100000000</value>
+		<data>-1</data>
+		<multi>0.03f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>It's Raining Balls of Fluff</name>
+		<desc>Make 1,000,000,000 bunnies.</desc>
+		<path>total8.png</path>
+		<value>1000000000</value>
+		<data>-1</data>
+		<multi>0.04f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>More Bunnies Than Humans</name>
+		<desc>Make 10,000,000,000 bunnies.</desc>
+		<path>total9.png</path>
+		<value>10000000000</value>
+		<data>-1</data>
+		<multi>0.05f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Just Wait a Cottonpicking Minute!</name>
+		<desc>Make 100,000,000,000 bunnies.</desc>
+		<path>total10.png</path>
+		<value>100000000000</value>
+		<data>-1</data>
+		<multi>0.06f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Limitless Lepuses</name>
+		<desc>Make 1,000,000,000,000 bunnies.</desc>
+		<path>total11.png</path>
+		<value>1000000000000</value>
+		<data>-1</data>
+		<multi>0.07f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>My Goodness!</name>
+		<desc>Make 10,000,000,000,000 bunnies.</desc>
+		<path>total12.png</path>
+		<value>10000000000000</value>
+		<data>-1</data>
+		<multi>0.08f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Running Out of Space</name>
+		<desc>Make 100,000,000,000,000 bunnies.</desc>
+		<path>total13.png</path>
+		<value>100000000000000</value>
+		<data>-1</data>
+		<multi>0.10f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Too Many!</name>
+		<desc>Make 1,000,000,000,000,000 bunnies.</desc>
+		<path>total14.png</path>
+		<value>1000000000000000</value>
+		<data>-1</data>
+		<multi>0.12f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Please Stop</name>
+		<desc>Make 10,000,000,000,000,000 bunnies.</desc>
+		<path>total15.png</path>
+		<value>10000000000000000</value>
+		<data>-1</data>
+		<multi>0.14f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>OH YEAH!</name>
+		<desc>Make 100,000,000,000,000,000 bunnies.</desc>
+		<path>total16.png</path>
+		<value>100000000000000000</value>
+		<data>-1</data>
+		<multi>0.16f</multi>
+		<type>TOTAL</type>
+	</achievement>
+	<achievement>
+		<name>Clickity Clackity</name>
+		<desc>Make 10,000 bunnies by clicking.</desc>
+		<path>click1.png</path>
+		<value>10000</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>CLICK</type>
+	</achievement>
+	<achievement>
+		<name>Clickative</name>
+		<desc>Make 1,000,000 bunnies by clicking.</desc>
+		<path>click2.png</path>
+		<value>1000000</value>
+		<data>-1</data>
+		<multi>0.04f</multi>
+		<type>CLICK</type>
+	</achievement>
+	<achievement>
+		<name>Clickful</name>
+		<desc>Make 100,000,000 bunnies by clicking.</desc>
+		<path>click3.png</path>
+		<value>100000000</value>
+		<data>-1</data>
+		<multi>0.06f</multi>
+		<type>CLICK</type>
+	</achievement>
+	<achievement>
+		<name>Clickology</name>
+		<desc>Make 10,000,000,000 bunnies by clicking.</desc>
+		<path>click4.png</path>
+		<value>10000000000</value>
+		<data>-1</data>
+		<multi>0.08f</multi>
+		<type>CLICK</type>
+	</achievement>
+	<achievement>
+		<name>Clickaholic</name>
+		<desc>Make 1,000,000,000,000 bunnies by clicking.</desc>
+		<path>click5.png</path>
+		<value>1000000000000</value>
+		<data>-1</data>
+		<multi>0.10f</multi>
+		<type>CLICK</type>
+	</achievement>
+	<achievement>
+		<name>Natural Production</name>
+		<desc>Have 1 Mama Bunny.</desc>
+		<path>num11.png</path>
+		<value>1</value>
+		<data>0</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Bunny Family (Close Enough)</name>
+		<desc>Have 2 Mama Bunnies.</desc>
+		<path>num12.png</path>
+		<value>2</value>
+		<data>0</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Genesis</name>
+		<desc>Have 50 Mama Bunnies.</desc>
+		<path>num13.png</path>
+		<value>50</value>
+		<data>0</data>
+		<multi>0.02f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Many Mamas</name>
+		<desc>Have 100 Mama Bunnies.</desc>
+		<path>num14.png</path>
+		<value>100</value>
+		<data>0</data>
+		<multi>0.03f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Mother's Paradise</name>
+		<desc>Have 200 Mama Bunnies.</desc>
+		<path>num15.png</path>
+		<value>200</value>
+		<data>0</data>
+		<multi>0.05f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>The Outdoors</name>
+		<desc>Have 1 Meadow.</desc>
+		<path>num21.png</path>
+		<value>1</value>
+		<data>1</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Maddening Meadows</name>
+		<desc>Have 50 Meadows.</desc>
+		<path>num22.png</path>
+		<value>50</value>
+		<data>1</data>
+		<multi>0.02f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Grass For Days</name>
+		<desc>Have 100 Meadows.</desc>
+		<path>num23.png</path>
+		<value>100</value>
+		<data>1</data>
+		<multi>0.05f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Acres to Acres</name>
+		<desc>Have 150 Meadows.</desc>
+		<path>num24.png</path>
+		<value>150</value>
+		<data>1</data>
+		<multi>0.08f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>As Far As The Eye Can See</name>
+		<desc>Have 200 Meadows.</desc>
+		<path>num25.png</path>
+		<value>200</value>
+		<data>1</data>
+		<multi>0.10f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Zap!</name>
+		<desc>Have 1 Clay Animator.</desc>
+		<path>num31.png</path>
+		<value>1</value>
+		<data>2</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Scrupulous Sculptors</name>
+		<desc>Have 50 Clay Animators.</desc>
+		<path>num32.png</path>
+		<value>50</value>
+		<data>2</data>
+		<multi>0.03f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Kilograms of Clay</name>
+		<desc>Have 100 Clay Animators.</desc>
+		<path>num33.png</path>
+		<value>100</value>
+		<data>2</data>
+		<multi>0.06f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Breaking and Entering</name>
+		<desc>Have 1 Hacker.</desc>
+		<path>num41.png</path>
+		<value>1</value>
+		<data>3</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Pentagon Cracked</name>
+		<desc>Have 50 Hackers.</desc>
+		<path>num42.png</path>
+		<value>50</value>
+		<data>3</data>
+		<multi>0.04f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Master of the Domain</name>
+		<desc>Have 100 Hackers.</desc>
+		<path>num43.png</path>
+		<value>100</value>
+		<data>3</data>
+		<multi>0.06f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Industrial Bunny</name>
+		<desc>Have 1 3D Printer.</desc>
+		<path>num51.png</path>
+		<value>1</value>
+		<data>4</data>
+		<multi>0.01f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Scanning For Sand...Scan Successful!</name>
+		<desc>Have 50 3D Printers.</desc>
+		<path>num52.png</path>
+		<value>50</value>
+		<data>4</data>
+		<multi>0.05f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Fountain of Ink</name>
+		<desc>Have 100 3D Printers.</desc>
+		<path>num53.png</path>
+		<value>100</value>
+		<data>4</data>
+		<multi>0.10f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>To Space!</name>
+		<desc>Have 1 Spaceship.</desc>
+		<path>num61.png</path>
+		<value>1</value>
+		<data>5</data>
+		<multi>0.02f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Blazing Rockets</name>
+		<desc>Have 50 Spaceships.</desc>
+		<path>num62.png</path>
+		<value>50</value>
+		<data>5</data>
+		<multi>0.06f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>NASA Ain't Got Nothing On Us!</name>
+		<desc>Have 100 Spaceships.</desc>
+		<path>num63.png</path>
+		<value>100</value>
+		<data>5</data>
+		<multi>0.11f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>You're a Wizard, Emily</name>
+		<desc>Have 1 Wizard Tower.</desc>
+		<path>num71.png</path>
+		<value>1</value>
+		<data>6</data>
+		<multi>0.03f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Magic Squad</name>
+		<desc>Have 50 Wizard Towers.</desc>
+		<path>num72.png</path>
+		<value>50</value>
+		<data>6</data>
+		<multi>0.07f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Hocus Pocus!</name>
+		<desc>Have 100 Wizard Towers.</desc>
+		<path>num73.png</path>
+		<value>100</value>
+		<data>6</data>
+		<multi>0.12f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Instantanious Travel</name>
+		<desc>Have 1 Teleporter.</desc>
+		<path>num81.png</path>
+		<value>1</value>
+		<data>7</data>
+		<multi>0.04f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Quantum Pulsars</name>
+		<desc>Have 50 Teleporters.</desc>
+		<path>num81.png</path>
+		<value>50</value>
+		<data>7</data>
+		<multi>0.08f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Wormhole Traveler</name>
+		<desc>Have 100 Teleporters.</desc>
+		<path>num83.png</path>
+		<value>100</value>
+		<data>7</data>
+		<multi>0.13f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>A Whole New World</name>
+		<desc>Have 1 Universe.</desc>
+		<path>num91.png</path>
+		<value>1</value>
+		<data>8</data>
+		<multi>0.05f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Trillions of Lightyears</name>
+		<desc>Have 50 Universes.</desc>
+		<path>num92.png</path>
+		<value>50</value>
+		<data>8</data>
+		<multi>0.10f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Centiverse</name>
+		<desc>Have 100 Universes.</desc>
+		<path>num93.png</path>
+		<value>100</value>
+		<data>8</data>
+		<multi>0.18f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Mythological Madness</name>
+		<desc>Have 1 Lepus Titan.</desc>
+		<path>num101.png</path>
+		<value>1</value>
+		<data>9</data>
+		<multi>0.10f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Zeus Is Feeling Lonely</name>
+		<desc>Have 50 Lepus Titans.</desc>
+		<path>num102.png</path>
+		<value>50</value>
+		<data>9</data>
+		<multi>0.17f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Lord of Lords</name>
+		<desc>Have 100 Lepus Titans.</desc>
+		<path>num103.png</path>
+		<value>100</value>
+		<data>9</data>
+		<multi>0.25f</multi>
+		<type>NUMBER</type>
+	</achievement>
+	<achievement>
+		<name>Beats Per Second?</name>
+		<desc>Make 10 bunnies per second.</desc>
+		<path>bps1.png</path>
+		<value>10</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Bunnies Per Second</name>
+		<desc>Make 100 bunnies per second.</desc>
+		<path>bps2.png</path>
+		<value>100</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Generating Greatly</name>
+		<desc>Make 1,000 bunnies per second.</desc>
+		<path>bps3.png</path>
+		<value>1000</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Speeding Up</name>
+		<desc>Make 10,000 bunnies per second.</desc>
+		<path>bps4.png</path>
+		<value>10000</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Stream of Bunnies</name>
+		<desc>Make 100,000 bunnies per second.</desc>
+		<path>bps5.png</path>
+		<value>100000</value>
+		<data>-1</data>
+		<multi>0.03f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Fur Everywhere!</name>
+		<desc>Make 10,000,000 bunnies per second.</desc>
+		<path>bps6.png</path>
+		<value>10000000</value>
+		<data>-1</data>
+		<multi>0.04f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Faster Than Light</name>
+		<desc>Make 100,000,000 bunnies per second.</desc>
+		<path>bps7.png</path>
+		<value>100000000</value>
+		<data>-1</data>
+		<multi>0.06f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Greater Than the National Debt</name>
+		<desc>Make 1,000,000,000 bunnies per second.</desc>
+		<path>bps8.png</path>
+		<value>1000000000</value>
+		<data>-1</data>
+		<multi>0.09f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Teragrams of Fluff Balls</name>
+		<desc>Make 100,000,000,000 bunnies per second.</desc>
+		<path>bps9.png</path>
+		<value>100000000000</value>
+		<data>-1</data>
+		<multi>0.12f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Generation Queen</name>
+		<desc>Make 10,000,000,000,000 bunnies per second.</desc>
+		<path>bps10.png</path>
+		<value>10000000000000</value>
+		<data>-1</data>
+		<multi>0.15f</multi>
+		<type>BPS</type>
+	</achievement>
+	<achievement>
+		<name>Shiny!</name>
+		<desc>Click 1 golden bunny.</desc>
+		<path>gold1.png</path>
+		<value>1</value>
+		<data>-1</data>
+		<multi>0.01f</multi>
+		<type>GOLD</type>
+	</achievement>
+	<achievement>
+		<name>Lucky Mustard</name>
+		<desc>Click 7 golden bunnies.</desc>
+		<path>gold2.png</path>
+		<value>7</value>
+		<data>-1</data>
+		<multi>0.02f</multi>
+		<type>GOLD</type>
+	</achievement>
+	<achievement>
+		<name>Fortune Street</name>
+		<desc>Click 27 golden bunnies.</desc>
+		<path>gold3.png</path>
+		<value>27</value>
+		<data>-1</data>
+		<multi>0.06f</multi>
+		<type>GOLD</type>
+	</achievement>
+	<achievement>
+		<name>Jackpot</name>
+		<desc>Click 77 golden bunnies.</desc>
+		<path>gold4.png</path>
+		<value>77</value>
+		<data>-1</data>
+		<multi>0.15f</multi>
+		<type>GOLD</type>
+	</achievement>
+</achievements>
