@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: org.spooner.java.BunnyClick.BunnyClick
+SplashScreen-Image: cover.png
+
+

@@ -25,7 +25,7 @@ import java.text.NumberFormat;
  */
 
 public class BunnyClick {
-	public static final boolean IS_TEST = true;
+	public static final boolean IS_TEST = false;
 	//members
 	private static long numberBunnies;
 	private static Thread incrementer;
